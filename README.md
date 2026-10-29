@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is scheduled to be archived on 13th November 2026.**
+>
+> After that date it will be read-only: no new commits, issues, or pull requests, and no further maintenance or security updates will be issued.
+
 ## Sensu Enterprise Evaluation Stack
 This repository provides [SparkleFormation](http://www.sparkleformation.io/) templates to build a Sensu Enterprise Evaluation server in AWS. The server configuration will be roughly equivalent to the [Sensu installation instructions](https://sensuapp.org/docs/latest/installation-overview). This stack uses a single m3.large instance. Please review AWS pricing ahead of time to understand the billing implications of running this stack.
 
